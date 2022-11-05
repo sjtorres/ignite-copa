@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/sjtorres/Omnistack-11/blob/master/frontend/src/assets/logo.svg" width="380px" />
+    <img alt="Bolão da Copa" title="#BeTheHero" src="#" width="380px" />
 </h1>
 
 <h4 align="center"> 
@@ -26,7 +26,7 @@
 O Bolão da copa é um projeto que visa conectar pessoas e seus palpites sobre os jogos da copa.
 
 - :heavy_check_mark: [Node.js](https://nodejs.org/en/) 
-- :heavy_check_mark: [Express](http://fastify.io/) 
+- :heavy_check_mark: [Fastify](http://fastify.io/) 
 - :heavy_check_mark: [ReactJS](https://reactjs.org) 
 - :heavy_check_mark: [React Native](https://facebook.github.io/react-native/) 
 - :heavy_check_mark: [Expo](https://expo.io/) 
@@ -36,7 +36,7 @@ O Bolão da copa é um projeto que visa conectar pessoas e seus palpites sobre o
 Bolão da copa é um projeto que visa diversão e união de pessoas que gostam de dar palpites sobre os jogos da copa do mundo.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/Omnistack-11/blob/master/img/Mockup-Dispositivos-02.png" width="500px" />
+    <img alt="Login-Page" title="Login-Page" src="#" width="500px" />
 </h1>
 
 ## 🔖 Como usar
@@ -79,4 +79,4 @@ Este projeto está sob a licença MIT. Consulte o [LICENSE] para obter detalhes.
 
 ---
 
-Feito com ♥ por Sandro Torres na semana OmniStack-11 :wave: [Entre em Contato!](https://www.sandrotorres.com.br)
+Feito com ♥ por Sandro Torres :wave: [Entre em Contato!](https://www.sandrotorres.com.br)
