@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <h1 align="center">
-    <img alt="Bolão da Copa" title="#BolaoDaCopa" src="../github/logo.svg" width="380px" />
+    <img alt="Bolão da Copa" title="#BolaoDaCopa" src="https://github.com/sjtorres/ignite-copa/blob/main/server/.github/logo.svg" width="380px" />
 </h1>
 
 <h4 align="center"> 
