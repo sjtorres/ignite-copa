@@ -36,7 +36,7 @@ O Bolão da copa é um projeto que visa conectar pessoas e seus palpites sobre o
 Bolão da copa é um projeto que visa diversão e união de pessoas que gostam de dar palpites sobre os jogos da copa do mundo.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="#" width="500px" />
+    <img alt="Login-Page" title="Login-Page" src="https://github.com/sjtorres/ignite-copa/blob/main/server/.github/web.png" width="500px" />
 </h1>
 
 ## 🔖 Como usar
